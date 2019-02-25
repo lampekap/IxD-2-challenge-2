@@ -1,0 +1,37 @@
+
+body{
+	margin: 0;
+	padding: 0;
+  	font-family: 'FifteenRegular'; 
+	font-size: 60px;
+	color: white;
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}
+
+#container{
+	position: absolute;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+}
+
+#container > div {
+	background-color: rgba(0,0,0,0.7);
+	padding: 10px;
+}
+ @media screen and (min-width: 700px){
+ 	body {
+ 		font-size: 100px;
+ 	}
+ }
+ @media screen and (min-width: 1000px){
+ 	body{
+ 		font-size: 120px;
+ 	}
+ }
+  @media screen and (min-width: 1441px){
+  	body{
+  		font-size: 8.5vw;
+  	}
+  }

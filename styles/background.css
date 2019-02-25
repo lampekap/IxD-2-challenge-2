@@ -1,0 +1,24 @@
+.bg1 {
+	background-image: url("images/night.png");
+}
+.bg2 {
+	background-image: url("images/lateNight.png");
+}
+.bg3 {
+	background-image: url("images/morning.png");
+}
+.bg4 {
+	background-image: url("images/lateMorning.png");
+}
+.bg5 {
+	background-image: url("images/afternoon.png");
+}
+.bg6 {
+	background-image: url("images/lateAfternoon.png");
+}
+.bg7 {
+	background-image: url("images/evening.png");
+}
+.bg8 {
+	background-image: url("images/lateEvening.png");
+}
